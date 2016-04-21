@@ -1,6 +1,6 @@
 {
   "name": "bpm2spotify",
-  "description": "Description goes here.",
+  "description": "Take a BPM and get a spotify url!",
   "keywords": [
     "music",
     "dj"
