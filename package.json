@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "asyncbox": "^2.3.1",
+    "babel-core": "^6.7.7",
     "babel-polyfill": "^6.7.4",
     "bluebird": "^3.3.5",
     "lodash": "^4.11.1",
@@ -38,7 +39,6 @@
   },
   "devDependencies": {
     "babel-cli": "^6.7.7",
-    "babel-core": "^6.7.7",
     "babel-loader": "^6.2.4",
     "babel-plugin-transform-async-to-module-method": "^6.7.0",
     "babel-plugin-transform-object-rest-spread": "^6.6.5",
