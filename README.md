@@ -23,6 +23,12 @@ async function myFunction () {
 
 ### Develop
 
+Get set up:
+
+```
+npm install
+```
+
 Transpile code:
 
 ```
